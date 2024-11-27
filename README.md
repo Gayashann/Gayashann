@@ -62,6 +62,6 @@ Beyond tech, I enjoy socializing, 🎮 playing games, 🎵 listening to music, a
 
 <br>
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; ***I'M DO MY BEST***
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; ***I WILL DO MY BEST***
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">

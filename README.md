@@ -4,6 +4,8 @@
 
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=35>&nbsp;***About Me***
 
+<img alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" align="right" />
+
 
 I am an **Undergraduate Software Engineering** student at **SLIIT** currently building my skills in both front-end and back-end development. Some of my projects include:
 - **Ceylon Odyssey:** A MERN-stack project aimed at travel management with features like CRUD operations for destinations and analytics for managing tourism content.
@@ -60,26 +62,6 @@ Beyond tech, I enjoy socializing, 🎮 playing games, 🎵 listening to music, a
 
 <br>
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; ***My Best Work***
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Ceylon Odyssey</h3>
-      <div align="center">
-        <a href="https://github.com/Loo0per/Ceylon-Odyssey" target="_blank">
-          <img src="https://github.com/your-github-username/Ceylon-Odyssey/blob/main/assets/images/logo.png" width="500" style="object-fit: cover;" alt="Ceylon Odyssey">
-        </a>
-        <p>
-          <a href="https://github.com/Loo0per/Ceylon-Odyssey" target="_blank">
-            <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black&color=blue">
-          </a>
-        </p>
-        <p><strong>Ceylon Odyssey</strong> is a full-stack MERN application designed for destination and travel management, providing real-time analytics and seamless tour package handling.</p>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<br>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; ***I'M DO MY BEST***
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
